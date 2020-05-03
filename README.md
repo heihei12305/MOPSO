@@ -1,3 +1,7 @@
+> https://heihei12305.github.io/MOPSO/
+
+-------
+
 > ### 1.0 版本 pso 部分
 <p ><font face="微软雅黑">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp最近做大创开始学习遗传算法，粒子群算法等,在大佬的带领下，开始写点博客，因为是第一次写，而且自己学的也不好(捏个是重点)，就当写给自己看啦。
 <br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp粒子群算法跟遗传算法一样，都是从自然界的自然现象得到启发，而被大牛创造出来的，在一代代的改进中逐渐趋于完善，也慢慢作用于越来越多的领域中。<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp粒子群算法据说是从鸟群寻食中得到的启发，一群鸟在一个不知道食物分布的地方觅食，它们会渐渐集中到食物最多的地方去，当然，如果地方太大的话，也可能会出现多个集中鸟比较多的地方。</font><font color=#0099ff size=5 face="STCAIYUN">这里头有几个官方术语</font></p>
